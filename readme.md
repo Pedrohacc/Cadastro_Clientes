@@ -4,14 +4,14 @@
 <h5>Teste para vaga de programador full stack</h5>
 
 
-<p>O dump do esquema de dados, estara localizado na raiz do projeto.</p>
+<p>O dump do esquema de dados, estará localizado na raiz do projeto.</p>
 <p>Arquivo: /application</p>
 
 
 
 
 
-<p>Requisitos mínimos para o funcionamento do projeto:</p>
+
 
      .PHP
 
